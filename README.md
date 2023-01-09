@@ -50,13 +50,13 @@
 <td width="20%" align="center">
         <td width="20%" align="center">
   	<a href="https://devdocs.io/cpp/">
-  		<span>𝗖++</span><br><br><br>
+  		<span>Lua</span><br><br><br>
   		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/lua.svg">
   	 </a>
         </td>
         <td width="20%" align="center">
   	<a href="https://docs.oracle.com/java/">
-  		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
+  		<span>Java</span><br><br><br>
   		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
   	 </a>
         </td>
