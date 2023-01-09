@@ -2,7 +2,7 @@
   
   <p align="center">
   	<a href="https://github.com/DraxHex">
-  	<img src="https://avatars.githubusercontent.com/u/122213279" width = "200" alt="TNT">
+  	<img src="https://avatars.githubusercontent.com/u/122213279" width = "200" alt="Drax">
   	</a>
   </p>
   
